@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/cn/hbsi/controller/CookieServlet.java=GBK
+encoding//src/cn/hbsi/controller/LoginServlet.java=GBK
+encoding//src/cn/hbsi/filter/EncodingFilter.java=GBK
+encoding//src/cn/hbsi/view=GBK
+encoding//src/com/hbsi/bean=GBK
+encoding//src/com/hbsi/controller=GBK
+encoding//src/com/hbsi/dao=GBK
+encoding/<project>=UTF-8
+encoding/src=UTF-8
